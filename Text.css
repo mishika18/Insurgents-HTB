@@ -1,0 +1,35 @@
+.text  {
+    margin-left: 50px;
+    margin-right: 25px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    width:"50%";
+    text-align: center;
+  }
+
+  h1{
+    text-decoration: underline;
+    color: darkblue;
+    text-align: center;
+    text-transform: uppercase;
+    font: "Paprica";
+  }
+
+li{
+  text-align: left;
+
+}
+
+.text a{
+  color: black;
+  text-align: center;
+}
+
+a h1{
+  color: darkgoldenrod ;
+}
+
+.text-h2{
+  text-align: center;
+}

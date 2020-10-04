@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(128, 210, 248);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+head{
+    width: 100%;
+}
+div{
+    float: left;
+    padding:3px 8px 3px 8px;  
+    margin-bottom: 15px;
+    width:100%;
+}
+a{
+    color: snow;
+}
+.nav div{
+width:11%;
+}
+.nav a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 120% ;
+    width:100%;
+  
+}
+
+.topnav {
+    float: left;
+    overflow: hidden;
+    background-color: #333;
+    width:100%;
+    text-align: center;
+  }
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    display: block;
+}
+
+strong{
+    color: greenyellow;
+    font-size: 19px;
+}
+
+.footer{
+    font-size: 160%;
+    text-align: center;
+    color: navy;
+    align-content: center;
+}

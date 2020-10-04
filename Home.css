@@ -1,0 +1,17 @@
+.text1{
+    font-size: 160%;
+}   
+
+.side{
+    color: navy;
+}
+
+ .mgmt img{
+     transition: 1s;
+     width:75% ;
+     border: 6px solid rgb(32, 31, 31);
+ }
+
+ .img{
+    border: 6px solid rgb(32, 31, 31);
+ }
